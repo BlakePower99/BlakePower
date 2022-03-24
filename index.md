@@ -1,3 +1,6 @@
-# Blake Power
+# ** Blake Power**
 
-Hello, my name is Blake Power and I am a programmer! I am currently enrolled in college and I am learning many things
+
+## About me
+My name is Blake Power, I am from Canada and I'm currently enrolled in a college program for programming.
+I would say that some of my greatest skills are with programming languages like C# and javascript.
