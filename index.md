@@ -1,4 +1,4 @@
-# ** Blake Power**
+# Blake Power
 
 
 ## About me
